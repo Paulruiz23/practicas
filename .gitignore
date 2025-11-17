@@ -1,0 +1,10 @@
+# Carpetas de compilación
+out/
+Practica_Java/out/
+
+# Archivos compilados
+*.class
+
+# Archivos de IntelliJ
+*.iml
+.idea/
